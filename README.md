@@ -27,7 +27,7 @@ Linux系统
 **8.	配置git用户名的命令**    
 Git config – global user.name”wang”
 
-**9.	配置邮箱的命令  
+**9. 配置邮箱的命令**  
 Gir config – global user.email”2564494977@qq.com”
 
 **10.	命令行换行方式**   
